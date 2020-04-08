@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<html>
+<head>
+
+<link rel="stylesheet" type = "text/css" href= "Estilo.css">
+
+<title>Jogos pra web</title>
+</head>
+<body>
+<!--Comentário-->
+
+<p>Wallace Wilians<p>
+
+<a href="C:\Users\Wallace\Desktop\Jogos web\BandeiraJapao.html"><center>Click aqui</center></a>
+
+
+</body>
+</html>

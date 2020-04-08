@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<html>
+<head>
+<title>Jogos pra web</title>
+</head>
+<body>
+<!--Comentário-->
+
+<img src="Facens.jpg">
+
+<h1>Curso de Jogos Digitais</h1>
+
+<p>Disciplina de Jogos para Web.<p>
+<p>A disciplina apresenta como e realizado a producao de jogos digitais<br/>
+para plataforma web. Como uma introducao as ferramentas de <br/>
+desenvolvimento para navegadores e conceitos utilizando pela<br/>
+industria para criacao de jogos para navegadores.<p>
+
+
+<a href="C:\Users\Wallace\Desktop\Jogos web\web2.html"><center>Click aqui</center></a>
+
+</body>
+</html>
