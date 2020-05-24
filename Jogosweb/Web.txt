@@ -5,7 +5,7 @@
 <title>Jogos pra web</title>
 </head>
 <body>
-<!--Comentário-->
+<!--ComentÃ¡rio-->
 
 <img src="Facens.jpg">
 
@@ -18,7 +18,7 @@ desenvolvimento para navegadores e conceitos utilizando pela<br/>
 industria para criacao de jogos para navegadores.<p>
 
 
-<a href="C:\Users\Wallace\Desktop\Jogos web\web2.html"><center>Click aqui</center></a>
+<a href="web2.html"><center>Click aqui</center></a>
 
 </body>
 </html>
