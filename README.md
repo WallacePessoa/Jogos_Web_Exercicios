@@ -6,6 +6,6 @@
 
 [Bandeira do Japão](https://wallacepessoa.github.io/Jogos_Web_Exercicios/Jogosweb/BandeiraJapao.html)
 
-[SVG animado](https://wallacepessoa.github.io/Jogos_Web_Exercicios/Jogosweb/a.html)
+[SVG animado](https://wallacepessoa.github.io/Jogos_Web_Exercicios/Jogosweb/Aula11.html)
 
-[Criação de interatividade em elementos CSS/SVG](https://wallacepessoa.github.io/Jogos_Web_Exercicios/Jogosweb/aula12.html)
+[Criação de interatividade em elementos CSS/SVG](https://wallacepessoa.github.io/Jogos_Web_Exercicios/Jogosweb/Aula12.html)
